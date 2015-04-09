@@ -11,3 +11,19 @@ if (process.platform === "darwin")
 	nativeMenuBar.createMacBuiltin("Google Hacks");
 	win.menu = nativeMenuBar;
 }
+
+//App loaded.
+$(function()
+{
+	//Close button.
+	$("#closeButton").on("click", function()
+	{
+		gui.App.quit();
+	});	
+	
+	//Minimize button.
+	$("#minButton").on("click", function()
+	{
+		win.minimize();
+	});
+});
