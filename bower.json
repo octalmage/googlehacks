@@ -1,0 +1,14 @@
+{
+  "name": "Google Hacks",
+  "dependencies": {
+    "polymer": "Polymer/polymer#^0.5",
+    "core-icon-button": "Polymer/core-icon-button#~0.5.5",
+    "core-toolbar": "Polymer/core-toolbar#~0.5.5",
+    "core-header-panel": "Polymer/core-header-panel#~0.5.5",
+    "core-input": "Polymer/core-input#~0.5.5",
+    "paper-radio-group": "Polymer/paper-radio-group#~0.5.5",
+    "paper-radio-button": "Polymer/paper-radio-button#~0.5.5",
+    "paper-checkbox": "Polymer/paper-checkbox#~0.5.5",
+    "core-field": "Polymer/core-field#~0.5.0"
+  }
+}
