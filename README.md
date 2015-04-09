@@ -12,4 +12,4 @@ Thanks!
 
 New UI prototype: 
 
-![](https://cloudup.com/iLIADj6M5jK+)
+![](https://cloudup.com/coOPn9GIjRp+)
