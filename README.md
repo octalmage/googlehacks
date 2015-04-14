@@ -8,8 +8,12 @@ This is a rewrite of the [very popular cross platform desktop app](https://code.
 
 Thanks! 
 
-### New version
+## New version
 
 New UI prototype: 
 
 ![](https://cloudup.com/coOPn9GIjRp+)
+
+## License 
+
+GPL v2
